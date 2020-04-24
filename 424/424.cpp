@@ -9,7 +9,7 @@
 using namespace cv;
 using namespace std;
 
-
+ 
 void x(vector<vector<float>>&v, Mat&so)
 {
 	vector<Mat> srcMatpart(so.channels());
